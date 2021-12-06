@@ -6,7 +6,6 @@
 package data_member;
 
 import java.util.ArrayList;
-
 /**
  *
  * @author acer
